@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "question": "What is Jharkhand Rai University?",
+    "answer": "Jharkhand Rai University (JRU), Ranchi is a university offering undergraduate, postgraduate and diploma programs across areas including engineering, computer science, management, commerce, pharmacy, agriculture, health sciences, mining and law. JRU emphasizes skills, values, character development, research, innovation, entrepreneurship and industry-oriented education.",
+    "category": "About JRU"
+  },
+  {
+    "id": 2,
+    "question": "Where is the JRU campus located?",
+    "answer": "The JRU campus is located at Raja Ulatu, Namkum, Ranchi, Jharkhand - 834010.",
+    "category": "About JRU"
+  },
+  {
+    "id": 3,
+    "question": "What is the official JRU website?",
+    "answer": "The official website is jru.edu.in - it publishes the current admission cycle, fee structure, notices and downloads.",
+    "category": "About JRU"
+  },
+  {
+    "id": 4,
+    "question": "What is the eligibility for admission to B.Tech CSE at JRU?",
+    "answer": "Candidates need to have passed 10+2 or an equivalent examination from a recognized authority. Admission can be based on CUET, a relevant competitive examination, or qualifying-examination percentage/CGPA, according to current university rules.",
+    "category": "Admissions"
+  },
+  {
+    "id": 5,
+    "question": "What documents are required for admission?",
+    "answer": "Typically required: 10th marksheet/certificate, 12th marksheet/certificate, Transfer/Leaving Certificate, Migration Certificate (where applicable), Character Certificate, passport-size photographs, Aadhaar or another valid ID, and category or income/EWS certificates if applicable. Bring both originals and photocopies during admission.",
+    "category": "Admissions"
+  },
+  {
+    "id": 6,
+    "question": "Which papers are required to join?",
+    "answer": "Typically required: 10th marksheet/certificate, 12th marksheet/certificate, Transfer/Leaving Certificate, Migration Certificate (where applicable), Character Certificate, passport-size photographs, Aadhaar or another valid ID, and category or income/EWS certificates if applicable. Bring both originals and photocopies during admission.",
+    "category": "Admissions"
+  },
+  {
+    "id": 7,
+    "question": "How do I apply for admission and what is the application fee?",
+    "answer": "JRU provides an online application form (the admission form is also available on campus). The application fee is 1,000 rupees. The form also captures hostel requirement, category, and parents' details.",
+    "category": "Admissions"
+  },
+  {
+    "id": 8,
+    "question": "What is the last date to apply for admission?",
+    "answer": "Admissions are conducted according to the academic session and university notification, so there isn't one fixed date I can quote reliably. Please check the official JRU admission portal (jru.edu.in) for the current deadline - the site publishes each year's Admission Enquiry cycle.",
+    "category": "Admissions"
+  },
+  {
+    "id": 9,
+    "question": "Can I get admission through lateral entry?",
+    "answer": "Yes. For B.Tech CSE, JRU's lateral-entry route admits eligible diploma holders directly into the 3rd semester.",
+    "category": "Admissions"
+  },
+  {
+    "id": 10,
+    "question": "What courses are offered by the university?",
+    "answer": "JRU's current course listing includes, among others: UG - B.Tech (CSE, AI & ML with IBM, Mining), BCA, B.Com (Hons.), BBA, B.Pharm, B.Sc. (Hons.) Agriculture, B.Sc. MLT, B.Sc. Radiology, BPT, BA LLB, LLB; PG - MBA, MCA, M.Sc. Agriculture, LLM; and Diplomas in Pharmacy, Mining Engineering, and CSE.",
+    "category": "Courses"
+  },
+  {
+    "id": 11,
+    "question": "Tell me about the B.Tech CSE program.",
+    "answer": "B.Tech in Computer Science and Engineering is a 4-year program (3 years via lateral entry) under JRU's Department of Computer Science & IT, which also runs BCA, MCA, and Diploma CSE. Eligibility follows the 10+2/equivalent qualification prescribed by JRU, with admission via CUET, a relevant competitive exam, or qualifying marks/CGPA.",
+    "category": "Courses"
+  },
+  {
+    "id": 12,
+    "question": "What is the fee for B.Tech CSE?",
+    "answer": "Fees vary by program and academic session, so I can't quote a fixed figure here. Please check the latest JRU fee structure on jru.edu.in or contact the Admission Help Desk at 1800 120 2546 for the current B.Tech CSE fee.",
+    "category": "Fees"
+  },
+  {
+    "id": 13,
+    "question": "Can I pay the fees in installments?",
+    "answer": "Fee payment is subject to the payment schedule prescribed by JRU for your specific program and academic session - check with the Accounts Office or the JRU LMS for your installment schedule.",
+    "category": "Fees"
+  },
+  {
+    "id": 14,
+    "question": "Is there a refund policy if I withdraw admission?",
+    "answer": "JRU has a formal refund policy along with a No-Dues / Security-Fee Refund process. A security-fee refund requires completing the applicable no-dues process along with the supporting documents - contact the Accounts Department for the current procedure.",
+    "category": "Fees"
+  },
+  {
+    "id": 15,
+    "question": "What happens if I miss a fee payment deadline?",
+    "answer": "Late-payment charges, where applicable, are determined according to the university's current fee and payment rules - check your dues on the JRU LMS or with the Accounts Department for the exact amount.",
+    "category": "Fees"
+  },
+  {
+    "id": 16,
+    "question": "What types of exams does JRU conduct?",
+    "answer": "JRU conducts internal/CIA assessments, semester examinations, practical examinations, reappear/supplementary examinations, and revaluation/scrutiny processes.",
+    "category": "Examinations"
+  },
+  {
+    "id": 17,
+    "question": "When are the semester exams conducted?",
+    "answer": "Semester examination dates are announced through the official JRU examination schedule and notices published on jru.edu.in - they can shift each academic year, so check the current notice board rather than a fixed month.",
+    "category": "Examinations"
+  },
+  {
+    "id": 18,
+    "question": "What is the minimum attendance required to sit for exams?",
+    "answer": "Students normally require at least 75% attendance to be eligible for semester examinations, subject to applicable university rules and any approved condonation.",
+    "category": "Attendance"
+  },
+  {
+    "id": 19,
+    "question": "Can I get attendance condonation for medical leave?",
+    "answer": "JRU's student handbook describes limited condonation/relaxation provisions subject to university approval and applicable grounds (such as medical leave) - submit your request with supporting documents to your department office.",
+    "category": "Attendance"
+  },
+  {
+    "id": 20,
+    "question": "Is there a supplementary exam for backlogs?",
+    "answer": "Yes, JRU conducts supplementary/reappear examinations according to the examination schedule and applicable regulations.",
+    "category": "Examinations"
+  },
+  {
+    "id": 21,
+    "question": "How can I apply for revaluation of my answer sheet?",
+    "answer": "JRU provides a re-evaluation/scrutiny form through its student resources - it's available via the examination section of the JRU website or the JRU LMS.",
+    "category": "Examinations"
+  },
+  {
+    "id": 22,
+    "question": "What are the library working hours?",
+    "answer": "The JRU library is open 9:00 AM to 5:00 PM, Monday to Saturday.",
+    "category": "Library"
+  },
+  {
+    "id": 23,
+    "question": "What resources does the JRU library provide?",
+    "answer": "The library offers a large physical book collection along with digital/online accessibility, internet browsing facilities, a reading room, reference materials, journals, magazines, periodicals, e-books, and audio/video resources.",
+    "category": "Library"
+  },
+  {
+    "id": 24,
+    "question": "Does the library have an automated system for searching and issuing books?",
+    "answer": "Yes, JRU's library uses an automated system (OPAC) supporting book search, issue/reissue tracking, due-date and fine checking, book suggestions, holds, internet-connected computers, and printing/photocopying facilities.",
+    "category": "Library"
+  },
+  {
+    "id": 25,
+    "question": "Does the library provide access to digital journals like IEEE or Springer?",
+    "answer": "JRU provides digital learning resources, e-books, journals, and other electronic resources through its library. For specific subscriptions like IEEE or Springer, please confirm directly with the library, as active subscriptions can change.",
+    "category": "Library"
+  },
+  {
+    "id": 26,
+    "question": "What are the hostel facilities at JRU?",
+    "answer": "JRU provides separate hostels for boys and girls on campus, with roughly 96 seats each. Hostels include 24-hour power backup, security, and mess facilities, with a dining area seating over 150 students.",
+    "category": "Hostel"
+  },
+  {
+    "id": 27,
+    "question": "What are the hostel fees per year?",
+    "answer": "Hostel fees aren't fixed - JRU's hostel registration form asks students to select the hostel type and applicable semester fee. Please contact the university directly for the current hostel fee for your session.",
+    "category": "Hostel"
+  },
+  {
+    "id": 28,
+    "question": "Is the hostel booking amount refundable?",
+    "answer": "No - the hostel booking amount is explicitly stated as non-refundable on the JRU hostel registration form.",
+    "category": "Hostel"
+  },
+  {
+    "id": 29,
+    "question": "What is the hostel curfew time?",
+    "answer": "Hostel timings, leave rules, attendance, and other residential rules are governed by the current JRU Hostel Rules - check with the hostel warden's office for the exact timing in force this session.",
+    "category": "Hostel"
+  },
+  {
+    "id": 30,
+    "question": "Does the college provide transportation for students?",
+    "answer": "JRU provides transportation facilities subject to available routes and university rules. Students should submit a Transport Request Form and contact the university for current routes, timings, and charges.",
+    "category": "Transportation"
+  },
+  {
+    "id": 31,
+    "question": "Which companies visit the campus for placements?",
+    "answer": "Companies that have participated in JRU placement drives include TCS, Infosys, Capgemini, Accenture, Wipro, BYJU'S, Amdocs, Vivo, Shoppers Stop, Alembic, Fasal, Thriveni Sainik Mining, and Ujjivan Small Finance Bank, among others.",
+    "category": "Placements"
+  },
+  {
+    "id": 32,
+    "question": "What was the highest package offered last year?",
+    "answer": "For AY 2023-24 (historical data, not a guarantee for future batches): average CTC was about 2.86 LPA, median CTC about 3.00 LPA, and the highest CTC was about 11.25 LPA. 72 companies participated in that placement cycle, and students were selected across 65 of them.",
+    "category": "Placements"
+  },
+  {
+    "id": 33,
+    "question": "Is there a placement cell to help with resume building?",
+    "answer": "Yes - JRU's Career Management / Placement Cell runs placement drives, mock interviews, pre-placement training, seminars/workshops, guest lectures, industrial visits, and assessment tests.",
+    "category": "Placements"
+  },
+  {
+    "id": 34,
+    "question": "What scholarships are available for students?",
+    "answer": "JRU offers a Merit Scholarship based on qualifying-examination performance and university criteria, and the DreamZ JRU Scholarship, which covers tuition fees for eligible underserved girls for the duration of their program under the specified scheme.",
+    "category": "Scholarships"
+  },
+  {
+    "id": 35,
+    "question": "How can I apply for a merit scholarship?",
+    "answer": "Merit scholarships are awarded based on qualifying-examination performance under JRU's official scholarship policy - check with the Admission or Scholarship office for the current application process and cutoffs.",
+    "category": "Scholarships"
+  },
+  {
+    "id": 36,
+    "question": "Can my scholarship be withdrawn?",
+    "answer": "Yes - under JRU's official policy, scholarships can be withdrawn if you don't maintain the required SGPA/CGPA, attendance, and academic/disciplinary standards, or if you don't pass exams in the normal attempt.",
+    "category": "Scholarships"
+  },
+  {
+    "id": 37,
+    "question": "Are there fee concessions for staff or their families?",
+    "answer": "Yes - JRU specifies fee concessions/benefits for eligible employees' wards and spouses under its scholarship policy.",
+    "category": "Scholarships"
+  },
+  {
+    "id": 38,
+    "question": "What is JRU LMS and what can I use it for?",
+    "answer": "JRU LMS is the university's learning-and-ERP platform, accessible via web and mobile. Students can use it for attendance, results, learning resources, fee/dues information, and tuition fee payment. Parents can also view their ward's progress through it.",
+    "category": "Student Services"
+  },
+  {
+    "id": 39,
+    "question": "Where do I get a Transfer Certificate or Migration Certificate?",
+    "answer": "Transfer Certificate, Migration Certificate, Provisional Certificate, and similar academic documents are handled through JRU's student/download sections and the examination office - requests are typically routed through the JRU LMS or directly at the exam cell.",
+    "category": "Student Services"
+  },
+  {
+    "id": 40,
+    "question": "How can I contact the admissions office?",
+    "answer": "You can reach JRU's Admission Helpline at 1800 120 2546, or email info@jru.edu.in for general enquiries.",
+    "category": "Contact & Support"
+  },
+  {
+    "id": 41,
+    "question": "How do I contact the examination department?",
+    "answer": "The Examination Cell can be reached at examination@jru.edu.in or by phone at 9693296664.",
+    "category": "Contact & Support"
+  },
+  {
+    "id": 42,
+    "question": "What is the phone number for the Career Management / Placement Cell?",
+    "answer": "The Career Management / Placement Cell can be reached at 9693296661.",
+    "category": "Contact & Support"
+  },
+  {
+    "id": 43,
+    "question": "How do I contact the Accounts or Registrar's office?",
+    "answer": "The Accounts / VC / Registrar Office can be reached at 9693296667. For general reception enquiries, call 9693296660.",
+    "category": "Contact & Support"
+  },
+  {
+    "id": 44,
+    "question": "Where can I raise a general complaint or grievance?",
+    "answer": "JRU maintains several student-support structures for this, including the Department/HOD, Dean, Internal Complaints Committee (ICC), Women Cell, and Anti-Ragging Committee/Squad. For general grievances, start with info@jru.edu.in or your Department/HOD.",
+    "category": "Contact & Support"
+  },
+  {
+    "id": 45,
+    "question": "Who do I contact for anti-ragging or safety concerns?",
+    "answer": "JRU has a dedicated Anti-Ragging Committee and Anti-Ragging Squad, along with a Women Cell and Internal Complaints Committee (ICC) for safety and grievance concerns - these are listed under JRU's New Students section on the official website.",
+    "category": "Contact & Support"
+  }
+]

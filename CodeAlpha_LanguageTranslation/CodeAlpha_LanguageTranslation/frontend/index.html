@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Language Translator</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>AI-Powered Language Translator</h1>
+    <p class="subtitle">Local, offline neural translation</p>
+  </header>
+
+  <div id="error-banner" class="error-banner hidden"></div>
+
+  <main class="translator-grid">
+    <section class="panel">
+      <div class="panel-header">
+        <select id="source-lang"></select>
+        <button id="detect-btn" title="Auto-detect source language">Auto-detect</button>
+      </div>
+      <textarea id="source-text" placeholder="Start typing - translation appears automatically..."></textarea>
+      <div class="panel-footer">
+        <span id="char-count">0 characters</span>
+        <button id="clear-btn">Clear</button>
+      </div>
+    </section>
+
+    <div class="swap-column">
+      <button id="swap-btn" title="Swap languages">&#8646;</button>
+    </div>
+
+    <section class="panel">
+      <div class="panel-header">
+        <select id="target-lang"></select>
+      </div>
+      <div id="output-text" class="output-box" aria-live="polite"></div>
+      <div class="panel-footer">
+        <span id="latency-note"></span>
+        <button id="copy-btn">Copy</button>
+      </div>
+    </section>
+  </main>
+
+  <div class="action-row">
+    <<button id="translate-btn">Translate &amp; Save to History</button>
+    <span id="loading-indicator" class="hidden">Saving...</span>
+  </div>
+
+  <section class="history-section">
+    <div class="history-header">
+      <h2>Translation History</h2>
+      <button id="clear-history-btn">Clear History</button>
+    </div>
+    <ul id="history-list"></ul>
+  </section>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

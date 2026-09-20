@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JRU FAQ Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="chat-app">
+    <header class="chat-header">
+      <div class="chat-header-title">
+        <span class="chat-header-dot"></span>
+        JRU FAQ Assistant
+      </div>
+      <button id="clearBtn" class="clear-btn" title="Clear conversation">Clear</button>
+    </header>
+
+    <div id="messages" class="messages"></div>
+
+    <div id="loadingIndicator" class="loading-indicator hidden">
+      <span></span><span></span><span></span>
+    </div>
+
+    <div class="suggestions" id="suggestions">
+      <button class="chip">What documents are required for admission?</button>
+      <button class="chip">What are the hostel fees?</button>
+      <button class="chip">When are the semester exams conducted?</button>
+      <button class="chip">Which companies visit for placements?</button>
+    </div>
+
+    <form id="chatForm" class="chat-input-row">
+      <input
+        id="messageInput"
+        type="text"
+        placeholder="Ask about admissions, fees, exams, hostel..."
+        autocomplete="off"
+      />
+      <button type="submit" id="sendBtn">Send</button>
+    </form>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
