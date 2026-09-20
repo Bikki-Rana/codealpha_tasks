@@ -29,4 +29,4 @@ applications - computer vision, semantic search, and machine translation -
 without relying on paid third-party APIs.
 
 **Author:** Bikki Kumar Rana
-[GitHub](https://github.com/Bikki-Rana) - [LinkedIn]((https://www.linkedin.com/in/bikki-rana/))
+[GitHub](https://github.com/Bikki-Rana) - [LinkedIn](https://www.linkedin.com/in/bikki-rana/)
